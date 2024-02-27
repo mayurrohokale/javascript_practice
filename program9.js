@@ -14,3 +14,6 @@ else
 {
     console.log("x is defined");
 }
+
+b = undefined; // not good practice
+console.log(b);
